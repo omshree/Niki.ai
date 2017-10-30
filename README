@@ -3,8 +3,8 @@ import the data
 and then split the data into "text" and "lebel"
 where the count of level will give the no of what, when, unknown, Affiermative
 now you can give the output value to specific feature
-the output of this code will give the Accuracy of the prediction and the output fot some test cases
+the output of this code will give the Accuracy of the prediction and the output for some test cases
 manual testing example is given in the code named Test_custom=["what are you doing"]
-output of this prediction is f=giving the correct code reference.
+output of this prediction is giving the correct code reference.
 you can give any manual input to check the output.
 
