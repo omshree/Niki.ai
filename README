@@ -3,4 +3,4 @@ import the data
 and then split the data into "text" and "lebel"
 where the count of level will give the no of what, when, unknown, Affiermative
 now you can give the output value to specific feature
-the output of this code will give the Accuracy of the prediction
+the output of this code will give the Accuracy of the prediction and the output fot some test cases
